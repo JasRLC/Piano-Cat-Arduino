@@ -553,6 +553,7 @@ int third;
 int left;
 int right;
 
+#define BUZZER_PIN 9
 
 #define NOTE_C 262
 #define NOTE_D 294
